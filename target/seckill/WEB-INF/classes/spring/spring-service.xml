@@ -10,7 +10,7 @@
 
 
 <!--扫描serviece包下所有使用注解的类型-->
-<context:component-scan base-package="org.seckill.service"></context:component-scan>
+<context:component-scan base-package="me.kbiao.seckill.service"></context:component-scan>
 <!--配置失误管理器-->
     <bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
         <!--注入数据库连接池-->

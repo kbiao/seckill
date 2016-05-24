@@ -27,5 +27,5 @@
 
 
     <!--扫描web相关bean-->
-    <context:component-scan base-package="org.seckill.web"/>
+    <context:component-scan base-package="me.kbiao.seckill.web"/>
 </beans>

@@ -58,7 +58,7 @@
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.064516">
+            <state vertical-scroll-proportion="-6.1311474">
               <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
@@ -78,17 +78,17 @@
       <file leaf-file-name="spring-web.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.967742">
-              <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+            <state vertical-scroll-proportion="-8.360656">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SeckillController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/seckill/web/SeckillController.java">
+      <file leaf-file-name="SeckillController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/me/kbiao/seckill/web/SeckillController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5585284">
+            <state vertical-scroll-proportion="0.0">
               <caret line="101" column="58" selection-start-line="101" selection-start-column="58" selection-end-line="101" selection-end-column="58" />
               <folding />
             </state>
@@ -98,18 +98,8 @@
       <file leaf-file-name="spring-service.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-service.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.2131147">
-              <caret line="20" column="65" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-26.967741">
-              <caret line="128" column="38" selection-start-line="128" selection-start-column="38" selection-end-line="128" selection-end-column="38" />
+            <state vertical-scroll-proportion="-3.142857">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -135,10 +125,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="seckill.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="seckill.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/resource/script/seckill.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="4.5171103">
               <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
               <folding />
             </state>
@@ -148,8 +138,8 @@
       <file leaf-file-name="spring-dao.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="10.098361">
-              <caret line="8" column="72" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
+            <state vertical-scroll-proportion="-4.387097">
+              <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
               <folding>
                 <element signature="e#723#734#0" expanded="true" />
               </folding>
@@ -209,14 +199,16 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/common/head.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/common/tag.jsp" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-service.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-web.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/list.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/detail.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/resource/script/seckill.js" />
         <option value="$PROJECT_DIR$/src/main/java/org/seckill/web/SeckillController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/kbiao/web/SeckillController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-web.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-service.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml" />
       </list>
     </option>
   </component>
@@ -905,100 +897,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="seckill" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="seckill" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="seckill" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="seckill" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="seckill" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="seckill" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="seckill" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="exception" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="seckill" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="seckill" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="seckill" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1740,7 +1638,7 @@
       <workItem from="1463823186639" duration="12039000" />
       <workItem from="1463880210272" duration="10736000" />
       <workItem from="1463997763292" duration="18036000" />
-      <workItem from="1464070558986" duration="20688000" />
+      <workItem from="1464070558986" duration="21678000" />
     </task>
     <servers />
   </component>
@@ -1777,7 +1675,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61499000" />
+    <option name="totallyTimeSpent" value="62489000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1066" extended-state="6" />
@@ -1806,7 +1704,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39978448" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39978448" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1830,39 +1728,40 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="95" column="25" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/sql/schema.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+          <folding>
+            <marker date="1463840127408" expanded="true" signature="24:47" placeholder="CREATE DATAB... seckill" />
+            <marker date="1463840127408" expanded="true" signature="64:620" placeholder="CREATE TABLE... seckill" />
+            <marker date="1463840127408" expanded="true" signature="635:1078" placeholder="INSERT INTO seckill" />
+            <marker date="1463840127408" expanded="true" signature="1106:1517" placeholder="CREATE TABLE... success_killed" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/seckill/entity/Seckill.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kbiao/seckill/entity/Seckill.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="65" column="18" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/seckill/entity/SuccessKilled.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kbiao/seckill/entity/SuccessKilled.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/seckill/dao/SeckillDao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kbiao/seckill/dao/SeckillDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1879,10 +1778,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1463888426470" expanded="true" signature="252:494" placeholder="UPDATE secki... " />
-            <marker date="1463888426470" expanded="true" signature="252:501" placeholder="UPDATE secki... " />
-            <marker date="1463888426470" expanded="true" signature="591:712" placeholder="SELECT secki... seckill" />
-            <marker date="1463888426470" expanded="true" signature="782:920" placeholder="SELECT secki... seckill" />
+            <marker date="1464100032699" expanded="true" signature="257:499" placeholder="UPDATE secki... " />
+            <marker date="1464100032699" expanded="true" signature="257:506" placeholder="UPDATE secki... " />
+            <marker date="1464100032699" expanded="true" signature="596:717" placeholder="SELECT secki... seckill" />
+            <marker date="1464100032699" expanded="true" signature="787:925" placeholder="SELECT secki... seckill" />
           </folding>
         </state>
       </provider>
@@ -1892,16 +1791,19 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
           <folding>
-            <marker date="1464015911695" expanded="true" signature="480:970" placeholder="SELECT sk.se... success_killed" />
-            <marker date="1464015911695" expanded="true" signature="480:1001" placeholder="SELECT sk.se... success_killed" />
+            <marker date="1464100032724" expanded="true" signature="485:975" placeholder="SELECT sk.se... success_killed" />
+            <marker date="1464100032724" expanded="true" signature="485:1006" placeholder="SELECT sk.se... success_killed" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/seckill/dao/SuccessKillDao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kbiao/seckill/dao/SuccessKillDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1930,13 +1832,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+          <folding>
+            <marker date="1463840127408" expanded="true" signature="24:47" placeholder="CREATE DATAB... seckill" />
+            <marker date="1463840127408" expanded="true" signature="64:620" placeholder="CREATE TABLE... seckill" />
+            <marker date="1463840127408" expanded="true" signature="635:1078" placeholder="INSERT INTO seckill" />
+            <marker date="1463840127408" expanded="true" signature="1106:1517" placeholder="CREATE TABLE... success_killed" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/seckill/entity/Seckill.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kbiao/seckill/entity/Seckill.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="65" column="18" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1954,62 +1863,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/seckill/dao/SeckillDao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kbiao/seckill/dao/SeckillDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/seckill/dao/SeckillDaoTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/me/kbiao/seckill/dao/SeckillDaoTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="58" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/seckill/dao/SuccessKillDaoTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/me/kbiao/seckill/dao/SuccessKillDaoTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/seckill/exception/SeckillException.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kbiao/seckill/exception/SeckillException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="23" />
           <folding>
-            <element signature="e#177#178#0" expanded="false" />
-            <element signature="e#207#208#0" expanded="false" />
-            <element signature="e#271#272#0" expanded="false" />
-            <element signature="e#308#309#0" expanded="false" />
+            <element signature="e#182#183#0" expanded="false" />
+            <element signature="e#212#213#0" expanded="false" />
+            <element signature="e#276#277#0" expanded="false" />
+            <element signature="e#313#314#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/seckill/exception/RepeatKillException.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kbiao/seckill/exception/RepeatKillException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
           <folding>
-            <element signature="e#224#225#0" expanded="false" />
-            <element signature="e#254#255#0" expanded="false" />
-            <element signature="e#321#322#0" expanded="false" />
-            <element signature="e#358#359#0" expanded="false" />
+            <element signature="e#229#230#0" expanded="false" />
+            <element signature="e#259#260#0" expanded="false" />
+            <element signature="e#326#327#0" expanded="false" />
+            <element signature="e#363#364#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/seckill/exception/SeckillCloseException.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kbiao/seckill/exception/SeckillCloseException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
           <folding>
-            <element signature="e#187#188#0" expanded="false" />
-            <element signature="e#217#218#0" expanded="false" />
-            <element signature="e#286#287#0" expanded="false" />
-            <element signature="e#323#324#0" expanded="false" />
+            <element signature="e#192#193#0" expanded="false" />
+            <element signature="e#222#223#0" expanded="false" />
+            <element signature="e#291#292#0" expanded="false" />
+            <element signature="e#328#329#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2046,40 +1958,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/seckill/entity/SuccessKilled.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kbiao/seckill/entity/SuccessKilled.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/seckill/dto/SeckillExcution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kbiao/seckill/dto/SeckillExcution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#832#833#0" expanded="false" />
-            <element signature="e#864#865#0" expanded="false" />
-            <element signature="e#912#913#0" expanded="false" />
-            <element signature="e#954#955#0" expanded="false" />
-            <element signature="e#983#984#0" expanded="false" />
-            <element signature="e#1011#1012#0" expanded="false" />
-            <element signature="e#1050#1051#0" expanded="false" />
-            <element signature="e#1084#1085#0" expanded="false" />
-            <element signature="e#1120#1121#0" expanded="false" />
-            <element signature="e#1152#1153#0" expanded="false" />
-            <element signature="e#1202#1203#0" expanded="false" />
-            <element signature="e#1244#1245#0" expanded="false" />
-            <element signature="e#1291#1292#0" expanded="false" />
-            <element signature="e#1327#1328#0" expanded="false" />
-            <element signature="e#1392#1393#0" expanded="false" />
-            <element signature="e#1442#1443#0" expanded="false" />
+            <element signature="e#847#848#0" expanded="false" />
+            <element signature="e#879#880#0" expanded="false" />
+            <element signature="e#927#928#0" expanded="false" />
+            <element signature="e#969#970#0" expanded="false" />
+            <element signature="e#998#999#0" expanded="false" />
+            <element signature="e#1026#1027#0" expanded="false" />
+            <element signature="e#1065#1066#0" expanded="false" />
+            <element signature="e#1099#1100#0" expanded="false" />
+            <element signature="e#1135#1136#0" expanded="false" />
+            <element signature="e#1167#1168#0" expanded="false" />
+            <element signature="e#1217#1218#0" expanded="false" />
+            <element signature="e#1259#1260#0" expanded="false" />
+            <element signature="e#1306#1307#0" expanded="false" />
+            <element signature="e#1342#1343#0" expanded="false" />
+            <element signature="e#1407#1408#0" expanded="false" />
+            <element signature="e#1457#1458#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/seckill/service/SeckillService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kbiao/seckill/service/SeckillService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
@@ -2094,32 +2007,35 @@
         <state vertical-scroll-proportion="-9.935484">
           <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
           <folding>
-            <marker date="1463888426470" expanded="true" signature="252:494" placeholder="UPDATE secki... " />
-            <marker date="1463888426470" expanded="true" signature="252:501" placeholder="UPDATE secki... " />
-            <marker date="1463888426470" expanded="true" signature="591:712" placeholder="SELECT secki... seckill" />
-            <marker date="1463888426470" expanded="true" signature="782:920" placeholder="SELECT secki... seckill" />
+            <marker date="1464100032699" expanded="true" signature="257:499" placeholder="UPDATE secki... " />
+            <marker date="1464100032699" expanded="true" signature="257:506" placeholder="UPDATE secki... " />
+            <marker date="1464100032699" expanded="true" signature="596:717" placeholder="SELECT secki... seckill" />
+            <marker date="1464100032699" expanded="true" signature="787:925" placeholder="SELECT secki... seckill" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/seckill/service/impl/SeckillServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kbiao/seckill/service/impl/SeckillServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="98" column="76" selection-start-line="98" selection-start-column="65" selection-end-line="98" selection-end-column="85" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#1244#1245#0" expanded="false" />
-            <element signature="e#1291#1292#0" expanded="false" />
-            <element signature="e#1337#1338#0" expanded="false" />
-            <element signature="e#1391#1392#0" expanded="false" />
+            <element signature="e#1304#1305#0" expanded="false" />
+            <element signature="e#1351#1352#0" expanded="false" />
+            <element signature="e#1397#1398#0" expanded="false" />
+            <element signature="e#1451#1452#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/seckill/dao/SuccessKillDao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kbiao/seckill/dao/SuccessKillDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2128,41 +2044,41 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="77" selection-start-line="24" selection-start-column="77" selection-end-line="24" selection-end-column="77" />
           <folding>
-            <marker date="1464015911695" expanded="true" signature="480:970" placeholder="SELECT sk.se... success_killed" />
-            <marker date="1464015911695" expanded="true" signature="480:1001" placeholder="SELECT sk.se... success_killed" />
+            <marker date="1464100032724" expanded="true" signature="485:975" placeholder="SELECT sk.se... success_killed" />
+            <marker date="1464100032724" expanded="true" signature="485:1006" placeholder="SELECT sk.se... success_killed" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/seckill/dto/Exposer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kbiao/seckill/dto/Exposer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
-            <element signature="e#311#312#0" expanded="false" />
-            <element signature="e#341#342#0" expanded="false" />
-            <element signature="e#388#389#0" expanded="false" />
-            <element signature="e#426#427#0" expanded="false" />
-            <element signature="e#456#457#0" expanded="false" />
-            <element signature="e#482#483#0" expanded="false" />
-            <element signature="e#520#521#0" expanded="false" />
-            <element signature="e#550#551#0" expanded="false" />
-            <element signature="e#584#585#0" expanded="false" />
-            <element signature="e#616#617#0" expanded="false" />
-            <element signature="e#664#665#0" expanded="false" />
-            <element signature="e#706#707#0" expanded="false" />
-            <element signature="e#734#735#0" expanded="false" />
-            <element signature="e#760#761#0" expanded="false" />
-            <element signature="e#796#797#0" expanded="false" />
-            <element signature="e#826#827#0" expanded="false" />
-            <element signature="e#856#857#0" expanded="false" />
-            <element signature="e#884#885#0" expanded="false" />
-            <element signature="e#924#925#0" expanded="false" />
-            <element signature="e#958#959#0" expanded="false" />
-            <element signature="e#986#987#0" expanded="false" />
-            <element signature="e#1012#1013#0" expanded="false" />
-            <element signature="e#1048#1049#0" expanded="false" />
-            <element signature="e#1078#1079#0" expanded="false" />
+            <element signature="e#316#317#0" expanded="false" />
+            <element signature="e#346#347#0" expanded="false" />
+            <element signature="e#393#394#0" expanded="false" />
+            <element signature="e#431#432#0" expanded="false" />
+            <element signature="e#461#462#0" expanded="false" />
+            <element signature="e#487#488#0" expanded="false" />
+            <element signature="e#525#526#0" expanded="false" />
+            <element signature="e#555#556#0" expanded="false" />
+            <element signature="e#589#590#0" expanded="false" />
+            <element signature="e#621#622#0" expanded="false" />
+            <element signature="e#669#670#0" expanded="false" />
+            <element signature="e#711#712#0" expanded="false" />
+            <element signature="e#739#740#0" expanded="false" />
+            <element signature="e#765#766#0" expanded="false" />
+            <element signature="e#801#802#0" expanded="false" />
+            <element signature="e#831#832#0" expanded="false" />
+            <element signature="e#861#862#0" expanded="false" />
+            <element signature="e#889#890#0" expanded="false" />
+            <element signature="e#929#930#0" expanded="false" />
+            <element signature="e#963#964#0" expanded="false" />
+            <element signature="e#991#992#0" expanded="false" />
+            <element signature="e#1017#1018#0" expanded="false" />
+            <element signature="e#1053#1054#0" expanded="false" />
+            <element signature="e#1083#1084#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2191,7 +2107,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/seckill/service/SeckillServiceTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/me/kbiao/seckill/service/SeckillServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
@@ -2199,7 +2115,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/seckill/dto/SeckillResult.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kbiao/seckill/dto/SeckillResult.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
@@ -2207,15 +2123,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/seckill/enums/SeckillStatEnum.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kbiao/seckill/enums/SeckillStatEnum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
           <folding>
-            <element signature="e#447#448#0" expanded="false" />
-            <element signature="e#475#476#0" expanded="false" />
-            <element signature="e#511#512#0" expanded="false" />
-            <element signature="e#543#544#0" expanded="false" />
+            <element signature="e#452#453#0" expanded="false" />
+            <element signature="e#480#481#0" expanded="false" />
+            <element signature="e#516#517#0" expanded="false" />
+            <element signature="e#548#549#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2252,35 +2168,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="10.098361">
-          <caret line="8" column="72" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
-          <folding>
-            <element signature="e#723#734#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.2131147">
-          <caret line="20" column="65" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.967742">
-          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.064516">
+        <state vertical-scroll-proportion="-6.1311474">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
@@ -2302,18 +2192,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resource/script/seckill.js">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/kbiao/seckill/web/SeckillController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+          <caret line="101" column="58" selection-start-line="101" selection-start-column="58" selection-end-line="101" selection-end-column="58" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/seckill/web/SeckillController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5585284">
-          <caret line="101" column="58" selection-start-line="101" selection-start-column="58" selection-end-line="101" selection-end-column="58" />
+        <state vertical-scroll-proportion="-8.360656">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.142857">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61646235">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.387097">
+          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+          <folding>
+            <element signature="e#723#734#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resource/script/seckill.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.5171103">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
           <folding />
         </state>
       </provider>
